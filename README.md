@@ -86,10 +86,14 @@ Tableau will be used to create an interactive dashboard with:
 * Top customers
 * Customer segments
 
+## Dashboard Link
+
+[View Tableau Dashboard](https://public.tableau.com/app/profile/prachi.patel8784/viz/E-CommerceSalesDashboard-OnlineRetailAnalysis/E-CommerceSalesDashboard)
+
 ## Key Insights
 
 This section will be updated after SQL, Python, and Tableau analysis are completed.
 
 ## Project Status
 
-In progress.
+Completed.
